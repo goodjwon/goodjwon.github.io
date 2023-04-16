@@ -57,4 +57,5 @@ title: "github blog 최신 GA4 셋업 방법 for jekyll"
 - 자료 찾기가 어려워 자료 찾다 보면 Gatsby 가 나오는데 나 올 수 있다.
 - 블로그 이전관련 포스트 일 가능성이 높아 원래 목적과 멀어 질 수 있다.
 - 혹 하지만 배보다 배꼽이니까 이전은 참도록 하자. (그러나 언젠가 해보고 싶다.)
+- 참고 : https://beingtechnicalwriter.com/google-analytics-four/
 
