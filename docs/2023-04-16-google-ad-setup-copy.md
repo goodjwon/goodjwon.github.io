@@ -1,8 +1,3 @@
----
-layout: single
-title: "github blog 최신 GA4 셋업 방법 for jekyll"
----
-
 # GA4를 사용하여 내 사이트 방문자 관련 통계를 분석해 보자.
 > GA4는  Google 의 차세대 애널리틱스인 애널리틱스 4 를 말한다.  
 

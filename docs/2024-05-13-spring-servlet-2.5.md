@@ -1,9 +1,3 @@
----
-layout: single
-title: "Servlet 2.5 를 사용하는 경우 Spring에서 파일 업로드 제한 설정"
----
-
-
 ## Servlet 2.5 를 사용하는 경우
 >  web.xml 에 servlet 태그 내부에 추가는 불가능 하고 Bean 요소에 설정 해야 함.
 
